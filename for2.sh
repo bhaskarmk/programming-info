@@ -4,3 +4,4 @@ for (( k=1;k<=100;k++ ))
 do
 	echo "$k"
 done
+echo "for loop is completed"
